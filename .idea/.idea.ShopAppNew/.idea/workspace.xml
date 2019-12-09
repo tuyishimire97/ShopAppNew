@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c6e72e-2af6-4699-a0e2-459426dd4e0f" name="Default Changelist" comment="" />
+    <list default="true" id="f6c6e72e-2af6-4699-a0e2-459426dd4e0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShopAppNew/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShopAppNew/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopAppNew/Pages/Products/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopAppNew/Pages/Products/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopAppNew/Productsdb.db" beforeDir="false" afterPath="$PROJECT_DIR$/ShopAppNew/Productsdb.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopAppNew/bin/Debug/netcoreapp3.0/ShopAppNew.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ShopAppNew/bin/Debug/netcoreapp3.0/ShopAppNew.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopAppNew/bin/Debug/netcoreapp3.0/ShopAppNew.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShopAppNew/bin/Debug/netcoreapp3.0/ShopAppNew.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopAppNew/bin/Debug/netcoreapp3.0/ShopAppNew.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ShopAppNew/bin/Debug/netcoreapp3.0/ShopAppNew.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopAppNew/bin/Debug/netcoreapp3.0/ShopAppNew.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShopAppNew/bin/Debug/netcoreapp3.0/ShopAppNew.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopAppNew/obj/Debug/netcoreapp3.0/Razor/Pages/Products/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ShopAppNew/obj/Debug/netcoreapp3.0/Razor/Pages/Products/Index.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopAppNew/obj/Debug/netcoreapp3.0/ShopAppNew.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ShopAppNew/obj/Debug/netcoreapp3.0/ShopAppNew.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopAppNew/obj/Debug/netcoreapp3.0/ShopAppNew.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShopAppNew/obj/Debug/netcoreapp3.0/ShopAppNew.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopAppNew/obj/Debug/netcoreapp3.0/ShopAppNew.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ShopAppNew/obj/Debug/netcoreapp3.0/ShopAppNew.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopAppNew/obj/Debug/netcoreapp3.0/ShopAppNew.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShopAppNew/obj/Debug/netcoreapp3.0/ShopAppNew.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ShopAppNew/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
@@ -22,12 +38,13 @@
         <option value="$PROJECT_DIR$/ShopAppNew/Data/ProductsContext.cs" />
         <option value="$PROJECT_DIR$/ShopAppNew/Startup.cs" />
         <option value="$PROJECT_DIR$/ShopAppNew/appsettings.json" />
-        <option value="$PROJECT_DIR$/ShopAppNew/Pages/Products/Index.cshtml" />
         <option value="$PROJECT_DIR$/ShopAppNew/Models/Product.cs" />
+        <option value="$PROJECT_DIR$/ShopAppNew/Pages/Products/Index.cshtml" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1UXWX6qGFtA7SvWJFtdvbEdQHvg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -88,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575503462098</updated>
       <workItem from="1575503470956" duration="3557000" />
-      <workItem from="1575507107717" duration="4264000" />
+      <workItem from="1575507107717" duration="6003000" />
     </task>
     <servers />
   </component>
@@ -97,6 +114,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
